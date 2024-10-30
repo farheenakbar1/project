@@ -1,0 +1,19 @@
+body{
+    font-family: opensans;
+}
+.heading{
+    height: 18rem;
+    
+}
+.heading>p{
+text-decoration: underline;
+font-weight: 700;
+font-size: 5rem;
+line-height: 3rem;
+letter-spacing:0.3px;
+}
+@media screen and (max-width:467px) {
+    .heading>p{
+        font-size: 3rem;
+    }
+}

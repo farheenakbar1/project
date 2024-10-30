@@ -1,0 +1,16 @@
+
+.pink{
+    color: #ff4400;
+}
+#message{
+border-radius: 1rem;
+height: 8rem;
+padding: 1rem;
+}
+.message-box input{
+height: 3rem;
+border-radius: 1rem;
+}
+i{
+    font-family: fontawesome;
+}

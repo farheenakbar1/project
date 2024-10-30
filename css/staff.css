@@ -1,0 +1,19 @@
+.hero-image{
+    height: 600px;
+    background-image: url(/images/staff-hero-image.png);
+    background-size: cover;
+    background-position: center;
+    border-radius: 20px;
+    overflow: hidden;
+}
+.card{
+    width: fit-content;
+}
+.hero-image>span{
+    font-weight:400;
+    font-size: 5rem;
+    text-decoration: underline;
+}
+.image{
+    height:185px;
+}
